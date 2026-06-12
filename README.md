@@ -1,16 +1,25 @@
-## Hi there 👋
+# Robson Sampaio
 
-<!--
-**RobsonSampaioZ/RobsonSampaioZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas, em transição para a área de tecnologia.
 
-Here are some ideas to get you started:
+Atualmente estudo Java com foco em desenvolvimento backend. Estou construindo uma base sólida em lógica de programação, orientação a objetos, Git/GitHub, SQL e futuramente Spring Boot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estudos atuais
+
+- Java
+- Lógica de programação
+- Orientação a objetos
+- Git e GitHub
+- SQL
+- Desenvolvimento backend
+
+## Objetivo
+
+Conquistar minha primeira oportunidade de estágio ou vaga inicial em TI, com foco em desenvolvimento backend Java.
+
+## Próximos passos
+
+- Criar projetos práticos em Java
+- Estudar orientação a objetos com mais profundidade
+- Aprender banco de dados com SQL
+- Criar minha primeira API REST com Spring Boot
