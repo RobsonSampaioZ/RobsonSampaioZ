@@ -46,22 +46,6 @@ Estou em transição de carreira e construindo minha base em desenvolvimento de 
 
 ---
 
-## Projeto em destaque
-
-### Menu Interativo em Java
-
-Programa executado no terminal com as seguintes funcionalidades:
-
-- Exibição de mensagem
-- Geração de tabuada
-- Verificação de número positivo, negativo ou zero
-- Repetição do menu com `while`
-- Seleção de opções com `switch`
-- Tratamento de opções inválidas
-
-[Ver projeto no GitHub](https://github.com/SEU_USUARIO/menu-interativo-java)
-
----
 
 ## Estatísticas do GitHub
 
@@ -75,7 +59,7 @@ Programa executado no terminal com as seguintes funcionalidades:
 ## Contato
 
 <p>
-  <a href="LINK_DO_LINKEDIN">
+  <a href="https://www.linkedin.com/in/robson-sampaio-305284290/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
