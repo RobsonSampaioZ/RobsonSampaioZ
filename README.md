@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Olá, eu sou Robson Sampaio</h1>
 
 <h3 align="center">
@@ -86,4 +85,3 @@ Programa executado no terminal com as seguintes funcionalidades:
 <p align="center">
 Estudando com constância e construindo um passo de cada vez.
 </p>
-```
