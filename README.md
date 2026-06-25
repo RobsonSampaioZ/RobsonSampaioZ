@@ -47,7 +47,6 @@ Estou em transição de carreira e construindo minha base em desenvolvimento de 
 ---
 
 
-## Estatísticas do GitHub
 
 ## Estatísticas do GitHub
 
